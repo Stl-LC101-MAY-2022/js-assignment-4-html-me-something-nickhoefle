@@ -1,1 +1,53 @@
-/* Write your CSS here! */
+#mainHeading {
+    color: red;
+    font-family: "Audiowide", sans-serif;
+    text-align: center;
+}
+
+
+body {
+    margin: 8px;
+    padding: 5px;
+    display: block;
+    flex-direction: column;
+    background-color: #43523f;
+}
+
+
+h2 {
+    color: #b18441;
+    font-family: "Audiowide", sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+p {
+    color: #b18441;
+    font-family: "Audiowide", sans-serif;
+    text-align: center;
+    font-size: 18px;
+}
+
+
+article {
+    margin: 85px;
+}
+
+
+#footer {
+    padding-top: 60px;
+}
+
+
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+
+#testP {
+    color: green;
+}
