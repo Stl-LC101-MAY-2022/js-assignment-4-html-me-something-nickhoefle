@@ -1,6 +1,6 @@
 #mainHeading {
     color: red;
-    font-family: "Audiowide", sans-serif;
+    font-family: "Audiowide", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
 }
 
@@ -16,7 +16,7 @@ body {
 
 h2 {
     color: #b18441;
-    font-family: "Audiowide", sans-serif;
+    font-family: "Audiowide", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     text-decoration: underline;
 }
@@ -24,7 +24,7 @@ h2 {
 
 p {
     color: #b18441;
-    font-family: "Audiowide", sans-serif;
+    font-family: "Audiowide", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     font-size: 18px;
 }
